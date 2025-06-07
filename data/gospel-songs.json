@@ -1,0 +1,90 @@
+{
+  "artista": "Amazing Grace",
+  "descripcion": "Música Gospel inspiradora que toca el corazón y eleva el espíritu",
+  "canciones": [
+    {
+      "id": 1,
+      "titulo": "He Leves",
+      "duracion": "4:30",
+      "genero": "Gospel Adoración",
+      "descripcion": "Hermosa canción de adoración que exalta el nombre de Jesús",
+      "archivo": "/audio/real-songs/he-leves.wav",
+      "letra": "Una poderosa canción de adoración y alabanza",
+      "spotify": "https://open.spotify.com/artist/47yvi9iaib2jlG0sDAFDGP?si=wyIO0g-cQxWYMQMn4JEnkQ",
+      "youtube": "https://youtube.com/@amazinggrace-o2y?si=U4y7su-GAiTV4nc0",
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "titulo": "The Father's Embrace",
+      "duracion": "4:15",
+      "genero": "Gospel Contemporáneo",
+      "descripcion": "Una canción sobre el amor paternal de Dios y Su abrazo consolador",
+      "archivo": "/audio/real-songs/the-fathers-embrace.mp3",
+      "letra": "Encuentra refugio en el abrazo eterno del Padre celestial",
+      "spotify": "https://open.spotify.com/artist/47yvi9iaib2jlG0sDAFDGP?si=wyIO0g-cQxWYMQMn4JEnkQ",
+      "youtube": "https://youtube.com/@amazinggrace-o2y?si=U4y7su-GAiTV4nc0",
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "titulo": "Crowned Forevermore",
+      "duracion": "5:20",
+      "genero": "Gospel Adoración",
+      "descripcion": "Himno de adoración remasterizado que proclama la realeza eterna de Cristo",
+      "archivo": "/audio/real-songs/crowned-forevermore.wav",
+      "letra": "Cristo es Rey, coronado para siempre en gloria y majestad",
+      "spotify": "https://open.spotify.com/artist/47yvi9iaib2jlG0sDAFDGP?si=wyIO0g-cQxWYMQMn4JEnkQ",
+      "youtube": "https://youtube.com/@amazinggrace-o2y?si=U4y7su-GAiTV4nc0",
+      "disponible": true
+    },
+    {
+      "id": 4,
+      "titulo": "Water of Life",
+      "duracion": "4:10",
+      "genero": "Gospel Inspiracional",
+      "descripcion": "Canción remasterizada sobre Jesús como el agua viva que sacia toda sed",
+      "archivo": "/audio/real-songs/water-of-life.mp3",
+      "letra": "Jesús es el agua de vida que satisface el alma sedienta",
+      "spotify": "https://open.spotify.com/artist/47yvi9iaib2jlG0sDAFDGP?si=wyIO0g-cQxWYMQMn4JEnkQ",
+      "youtube": "https://youtube.com/@amazinggrace-o2y?si=U4y7su-GAiTV4nc0",
+      "disponible": true
+    },
+    {
+      "id": 5,
+      "titulo": "River of Eternal Life",
+      "duracion": "5:00",
+      "genero": "Gospel Profético",
+      "descripcion": "Poderosa canción sobre el río de vida eterna que fluye desde el trono de Dios",
+      "archivo": "/audio/real-songs/river-of-eternal-life.mp3",
+      "letra": "Un río de vida eterna fluye desde el corazón de Dios",
+      "spotify": "https://open.spotify.com/artist/47yvi9iaib2jlG0sDAFDGP?si=wyIO0g-cQxWYMQMn4JEnkQ",
+      "youtube": "https://youtube.com/@amazinggrace-o2y?si=U4y7su-GAiTV4nc0",
+      "disponible": true
+    },
+    {
+      "id": 6,
+      "titulo": "The Lamb Who Redeemed Us",
+      "duracion": "4:25",
+      "genero": "Gospel Redención",
+      "descripcion": "Himno de gratitud al Cordero de Dios que nos redimió con Su sangre",
+      "archivo": "/audio/real-songs/the-lamb-who-redeemed-us.mp3",
+      "letra": "Al Cordero que fue inmolado, sea la gloria y el honor",
+      "spotify": "https://open.spotify.com/artist/47yvi9iaib2jlG0sDAFDGP?si=wyIO0g-cQxWYMQMn4JEnkQ",
+      "youtube": "https://youtube.com/@amazinggrace-o2y?si=U4y7su-GAiTV4nc0",
+      "disponible": true
+    },
+    {
+      "id": 7,
+      "titulo": "Children of Light",
+      "duracion": "3:55",
+      "genero": "Gospel Juvenil",
+      "descripcion": "Canción inspiradora para la nueva generación de creyentes",
+      "archivo": "/audio/real-songs/children-of-light.mp3",
+      "letra": "Somos hijos de la luz, llamados a brillar en este mundo",
+      "spotify": "https://open.spotify.com/artist/47yvi9iaib2jlG0sDAFDGP?si=wyIO0g-cQxWYMQMn4JEnkQ",
+      "youtube": "https://youtube.com/@amazinggrace-o2y?si=U4y7su-GAiTV4nc0",
+      "disponible": true
+    }
+  ]
+}
